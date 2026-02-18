@@ -8,11 +8,25 @@ Hi, I'm Prasanna V Chinmalli
 - **Languages:** Python, SQL, JavaScript  
 - **Frameworks:** Django, scikit-learn, Pandas, NumPy, Matplotlib  
 - **Domains:** NLP, Machine Learning, Data Analysis  
-- **Tools:** Power BI, Git, VS Code  
+- **Tools:** Power BI, Git, VS Code
+- HTML, CSS, JavaScript
+- React (Learning)
+- Machine Learning Basics 
 
  Featured Projects
+-  Student Registration & Placement Portal
+   A structured frontend project built using HTML and deployed using GitHub Pages.
+   🔗 Live Demo:
+   https://Prasanna-chinmalli.github.io/HTML--Project/
 -  [Fake Review Detection Using ML](https://github.com/Prasanna-chinmalli/Fake-Review-Detection-ML)
 -  [ChatXpert – Smart AI Chatbot Using NLP](https://github.com/Prasanna-chinmalli/ChatXpert-AI-Chatbot)
 
+  Currently Working On
+- Improving frontend skills
+- Exploring AI Tools
+- Learning full stack development
+- Building portfolio projects
+
  Reach me at: **chinmalliprasanna18@gmail.com**  
  [LinkedIn](https://linkedin.com/in/prasanna-v-chinmalli-05175a278)
+ contact no - +91 9380637323
