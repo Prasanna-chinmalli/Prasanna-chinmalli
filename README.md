@@ -15,6 +15,7 @@ Hi, I'm Prasanna V Chinmalli
  Featured Projects
 -  Student Registration & Placement Portal
    A structured frontend project built using HTML and deployed using GitHub Pages.
+   
    🔗 Live Demo:
    https://Prasanna-chinmalli.github.io/HTML--Project/
 -  [Fake Review Detection Using ML](https://github.com/Prasanna-chinmalli/Fake-Review-Detection-ML)
