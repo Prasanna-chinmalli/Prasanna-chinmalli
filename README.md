@@ -25,7 +25,7 @@ Hi, I'm Prasanna V Chinmalli
    [https://Prasanna-chinmalli.github.io/HTML--Project/](https://prasanna-chinmalli.github.io/HTML-Project/)
    
 -  [Fake Review Detection Using ML](https://github.com/Prasanna-chinmalli/Fake-Review-Detection-ML)
--  
+  
 -  [ChatXpert – Smart AI Chatbot Using NLP](https://github.com/Prasanna-chinmalli/ChatXpert-AI-Chatbot)
 
   Currently Working On
