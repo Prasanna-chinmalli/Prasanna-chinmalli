@@ -15,6 +15,7 @@ Hi, I'm Prasanna V Chinmalli
  Featured Projects
  - HTML Resume
    created a personal resume using HTML
+   
     🔗 Live Demo: https://prasanna-chinmalli.github.io/html-resume/
 
 -  Student Registration & Placement Portal
