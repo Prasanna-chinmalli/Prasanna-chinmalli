@@ -15,15 +15,16 @@ Hi, I'm Prasanna V Chinmalli
  Featured Projects
  - HTML Resume
    created a personal resume using HTML
-    🔗 Live Demo: 
+    🔗 Live Demo: https://prasanna-chinmalli.github.io/html-resume/
 
- 
 -  Student Registration & Placement Portal
    A structured frontend project built using HTML and deployed using GitHub Pages.
    
-   🔗 Live Demo:
+   🔗 Live Demo: 
    [https://Prasanna-chinmalli.github.io/HTML--Project/](https://prasanna-chinmalli.github.io/HTML-Project/)
+   
 -  [Fake Review Detection Using ML](https://github.com/Prasanna-chinmalli/Fake-Review-Detection-ML)
+-  
 -  [ChatXpert – Smart AI Chatbot Using NLP](https://github.com/Prasanna-chinmalli/ChatXpert-AI-Chatbot)
 
   Currently Working On
