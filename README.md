@@ -5,13 +5,12 @@ Hi, I'm Prasanna V Chinmalli
  Currently exploring Deep Learning and end-to-end ML model deployment.  
 
  Technical Skills
-- **Languages:** Python, SQL, JavaScript  
-- **Frameworks:** Django, scikit-learn, Pandas, NumPy, Matplotlib  
+- **Languages:** Python, SQL, JavaScript
+- **Web Technology:**  HTML, CSS, JavaScript,
+- **Frameworks:** Django, scikit-learn, Pandas, NumPy, Matplotlib
+- **library:**  React, Angular
 - **Domains:** NLP, Machine Learning, Data Analysis  
-- **Tools:** Power BI, Git, VS Code
-- HTML, CSS, JavaScript
-- React (Learning)
-- Machine Learning Basics 
+- **Tools:** Power BI, Excel, Git, VS Code
 
  Featured Projects
 -  Student Registration & Placement Portal
