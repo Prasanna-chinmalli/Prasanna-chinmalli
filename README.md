@@ -13,6 +13,11 @@ Hi, I'm Prasanna V Chinmalli
 - **Tools:** Power BI, Excel, Git, VS Code
 
  Featured Projects
+ - HTML Resume
+   created a personal resume using HTML
+    🔗 Live Demo: 
+
+ 
 -  Student Registration & Placement Portal
    A structured frontend project built using HTML and deployed using GitHub Pages.
    
