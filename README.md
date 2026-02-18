@@ -17,7 +17,7 @@ Hi, I'm Prasanna V Chinmalli
    A structured frontend project built using HTML and deployed using GitHub Pages.
    
    🔗 Live Demo:
-   https://Prasanna-chinmalli.github.io/HTML--Project/
+   [https://Prasanna-chinmalli.github.io/HTML--Project/](https://prasanna-chinmalli.github.io/HTML-Project/)
 -  [Fake Review Detection Using ML](https://github.com/Prasanna-chinmalli/Fake-Review-Detection-ML)
 -  [ChatXpert – Smart AI Chatbot Using NLP](https://github.com/Prasanna-chinmalli/ChatXpert-AI-Chatbot)
 
