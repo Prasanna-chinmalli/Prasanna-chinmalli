@@ -2,7 +2,7 @@ Hi, I'm Prasanna V Chinmalli
 
  Final-year B.E. student in Artificial Intelligence and Machine Learning at Bangalore Technological Institute.  
  Passionate about building AI-driven solutions using Machine Learning, NLP, and Full-Stack Development (Python + Django).  
- Currently exploring Deep Learning and end-to-end ML model deployment.  
+ Currently exploring Deep Learning and end-to-end ML model deployment.
 
  Technical Skills
 - **Languages:** Python, SQL, JavaScript
